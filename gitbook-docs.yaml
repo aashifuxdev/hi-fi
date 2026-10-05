@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: hi-fi
+  structure:
+    - type: space
+      key: space-hi-fi
+      title: hi-fi
+      path: hi-fi
+      default: true
+      content:
+        directory: ./
