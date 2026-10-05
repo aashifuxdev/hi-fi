@@ -6,6 +6,7 @@ icon: cubes
 # Components
 
 Hi-Fi's UI is built from small, reusable components. Each one lives in `src/components/` in its own folder.
+New files are not updated in gitbook. so commit changes the new file.
 
 ## Button
 
