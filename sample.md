@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started main branch
 
 Welcome to the Hi-Fi project. This guide walks you through installing, configuring, and running the project for the first time.
 
