@@ -9,7 +9,7 @@ Welcome to the Hi-Fi project. This guide walks you through installing, configuri
 
 
 
-made changes in gitbook
+made changes in gitbook. updated in branch github
 
 {% hint style="info" %}
 You need **Node.js 18 or later** installed before you begin.
