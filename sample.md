@@ -7,9 +7,9 @@ icon: rocket
 
 Welcome to the Hi-Fi project. This guide walks you through installing, configuring, and running the project for the first time.
 
+made changes in gitbook. updated in branch github.
 
-
-made changes in gitbook. updated in branch github
+Edited in branch(gitbook)
 
 {% hint style="info" %}
 You need **Node.js 18 or later** installed before you begin.
