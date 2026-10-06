@@ -3,4 +3,4 @@ root: ./
 structure:
   readme: README.md
   summary: SUMMARY.md
-  components: components.md
+  summary2: summary2.md
