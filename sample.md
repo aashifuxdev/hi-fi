@@ -5,7 +5,7 @@ icon: rocket
 
 # Getting Started
 
-Welcome to the Hi-Fi project. This guide walks you through installing, configuring, and running the project for the first time.
+introduced updates. Welcome to the Hi-Fi project. This guide walks you through installing, configuring, and running the project for the first time.
 
 made changes in gitbook. updated in branch github.
 
