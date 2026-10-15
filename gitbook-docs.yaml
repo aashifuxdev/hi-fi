@@ -1,5 +1,4 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
-version: 1
 site:
   title: hi-fi
   structure:
@@ -9,4 +8,4 @@ site:
       path: hi-fi
       default: true
       content:
-        directory: ./
+        directory: null
