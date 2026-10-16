@@ -1,10 +1,10 @@
 # Getting Started main branch
 
-Welcome to the Hi-Fi project. This guide walks you through installing, configuring, and running the project for the first time.
+Welcome to the Hi-Fi project. This guide walks you through installing, configuring, and running the project for the first time. new&#x20;
 
 > **Note:** You need Node.js 18 or later installed before you begin.
 
-## Installation
+## Installation added
 
 Clone the repository and install dependencies:
 
@@ -16,7 +16,7 @@ npm install
 
 ## Configuration
 
-Create a `.env` file in the project root:
+Create a `.env` file in the project root: changes
 
 ```env
 API_URL=https://api.example.com
@@ -32,11 +32,11 @@ PORT=3000
 
 ## Running the project
 
-- **Development:** `npm run dev`
-- **Production:** `npm run build && npm start`
+* **Development:** `npm run dev`
+* **Production:** `npm run build && npm start`
 
 ## Next steps
 
-1. Read the [README](README.md).
+1. Read the [README](./).
 2. Explore the components.
 3. Open an issue if you get stuck.
